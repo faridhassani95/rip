@@ -1,7 +1,7 @@
 # rip-safe — Safe, Fast, Symlink-Aware Replacement for `rm`
 
 
-[![GitHub stars](https://img.shields.io/github/stars/faridhassani95/safe-rip?style=social)](https://github.com/faridhassani95/safe-rip/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/faridhassani95/safe-rip?style=social)](https://github.com/faridhassani95/rip)
 [![Crates.io](https://img.shields.io/crates/v/safe-rip.svg)](https://crates.io/crates/safe-rip)
 
 <p align="center">
